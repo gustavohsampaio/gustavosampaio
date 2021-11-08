@@ -1,10 +1,10 @@
 Olá! Eu sou o Gustavo Sampaio <br>
 Estudando linguagens: JavaScript, Vue.js
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/gusttavosampaio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusttavosampaio&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true" style="max-width:"100%";>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavosampaio&layout=compact&langs_count=7&theme=solarized-light" style="max-width:"100%";>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavosampaio&layout=compact&langs_count=7&theme=solarized-light" style="max-width:"100%";>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="gus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
