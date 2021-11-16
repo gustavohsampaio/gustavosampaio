@@ -1,5 +1,5 @@
-Olá! Eu sou o Gustavo Sampaio <br>
-Estudando as principais linguagens de tecnologia atráves do curso de Desenvolvimento  Web Full-stack by ProgramadorBr
+Olá! Eu sou o Gustavo Sampaio. <br>
+Estudando as principais linguagens de tecnologia atráves do curso de Desenvolvimento  Web Full-stack by ProgramadorBr.
 
 <div align="center">
   <a href="https://github.com/gusttavosampaio">
